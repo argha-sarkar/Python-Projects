@@ -11,11 +11,6 @@ A brief description of what this project does and who it's for
 Right now I'm uploading Python Basics Projects Cheat sheet, I will upload more projects and program.
 
  - [Acronyms Python](https://github.com/argha-sarkar/Python-Projects/tree/main/Acronyms_Python)
- 
-  
-## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/argha-sarkar/Cheatsheet/main/image/Screenshot%20from%202021-08-20%2019-36-10.png)
 
   
 ## Authors
@@ -40,11 +35,8 @@ After install Python3 then Install pip
 ```bash
   pip install pip
 ```
-Install Jupyter Notebook
+Install Visual Studio Code
 
-```bash
-  pip install jupyter
-```
     
 ## Environment Variables
 
@@ -59,7 +51,7 @@ To run all this project, you will need to the following environment
   
 ## Roadmap
 
-- First Python basics
+- [Acronyms Python](https://github.com/argha-sarkar/Python-Projects/tree/main/Acronyms_Python)
 
 
   
