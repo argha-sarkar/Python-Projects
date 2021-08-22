@@ -1,11 +1,10 @@
 
-![Logo](https://raw.githubusercontent.com/argha-sarkar/Cheatsheet/main/image/HD%20wallpaper_%20Programming%20is%20an%20Art%20text%2C%20code%2C%20python%2C%20computer%2C%20Python%20(programming).jpeg)
+![Logo](https://raw.githubusercontent.com/argha-sarkar/Python-Projects/main/Images/PythonProjects11.png)
 
     
 # Python-Projects
 
-A brief description of what this project does and who it's for
-
+Here I try to some basic python programming.
 
 ## Acknowledgements
 Right now I'm uploading Python Basics Projects Cheat sheet, I will upload more projects and program.
