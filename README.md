@@ -2,16 +2,15 @@
 ![Logo](https://raw.githubusercontent.com/argha-sarkar/Cheatsheet/main/image/HD%20wallpaper_%20Programming%20is%20an%20Art%20text%2C%20code%2C%20python%2C%20computer%2C%20Python%20(programming).jpeg)
 
     
-# Python Cheat Sheet
+# Python-Projects
 
 A brief description of what this project does and who it's for
 
 
 ## Acknowledgements
-Right now I'm uploading Python Basics Cheat sheet, I will upload the numpy,
-pandas, matplotlib, seaborn in the future.
+Right now I'm uploading Python Basics Projects Cheat sheet, I will upload more projects and program.
 
- - [Python Basics](https://github.com/argha-sarkar/Cheatsheet/tree/main/Python/Python%20Basics)
+ - [Acronyms Python](https://github.com/argha-sarkar/Python-Projects/tree/main/Acronyms_Python)
  
   
 ## Screenshots
