@@ -19,22 +19,22 @@ Right now I'm uploading Python Basics Projects Cheat sheet, I will upload more p
   
 ## Installation
 
-Install Python3 on Ubuntu
+1.Install Python3 on Ubuntu
 
 ```bash
   sudo apt install python3.8
 ```
-Check-out Python3 Version 
+2.Check-out Python3 Version 
 
 ```bash
   python3 --version
 ```
-After install Python3 then Install pip
+3.After install Python3 then Install pip
 
 ```bash
   pip install pip
 ```
-Install Visual Studio Code
+4.Install Visual Studio Code
 
     
 ## Environment Variables
