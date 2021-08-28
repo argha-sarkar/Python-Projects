@@ -9,6 +9,8 @@ My Qr code [generator](https://github.com/argha-sarkar/Python-Projects/tree/main
 
 - [@argha-sarkar](https://github.com/argha-sarkar)
 
+## My Qr Code
+![QR](https://github.com/argha-sarkar/Python-Projects/blob/main/Qr-Code-Generator/argha.png)
   
 ## Installation
 
