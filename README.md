@@ -10,6 +10,7 @@ Here I try to some basic python programming.
 Right now I'm uploading Python Basics Projects Cheat sheet, I will upload more projects and program.
 
  - [Acronyms Python](https://github.com/argha-sarkar/Python-Projects/tree/main/Acronyms_Python)
+ - [Qr Code Generator](https://github.com/argha-sarkar/Python-Projects/tree/main/Qr-Code-Generator)
 
   
 ## Authors
