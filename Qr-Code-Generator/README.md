@@ -1,5 +1,5 @@
 # Qr Code Generator
-Qr [code](https://github.com/argha-sarkar/Python-Projects/tree/main/Qr-Code-Generator) generator is very easy project. Just write this [code](https://github.com/argha-sarkar/Python-Projects/blob/main/Qr-Code-Generator/Qr-code-generator.py) after run this code.
+My Qr code [generator](https://github.com/argha-sarkar/Python-Projects/tree/main/Qr-Code-Generator) is very easy project. Just write this [code](https://github.com/argha-sarkar/Python-Projects/blob/main/Qr-Code-Generator/Qr-code-generator.py) then run this code. Then go to your project location or path, you willo see your qr code image.
 
 ## Acknowledgements
  - [Qr Code Generator](https://github.com/argha-sarkar/Python-Projects/tree/main/Qr-Code-Generator)
