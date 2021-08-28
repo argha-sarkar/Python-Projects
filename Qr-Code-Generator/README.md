@@ -12,21 +12,6 @@ Qr [code](https://github.com/argha-sarkar/Python-Projects/tree/main/Qr-Code-Gene
   
 ## Installation
 
-Install Python3 on Ubuntu
-
-```bash
-  sudo apt install python3.8
-```
-Check-out Python3 Version 
-
-```bash
-  python3 --version
-```
-After install Python3 then Install pip
-
-```bash
-  pip install pip
-```
 Install qrcode
 
 ```
@@ -42,12 +27,6 @@ To run all this project, you will need to the following environment
 `Linux`
 
 `MacOSX`
-
-  
-## Roadmap
-
-- First Python basics
-
 
   
 ## License
