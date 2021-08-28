@@ -1,10 +1,7 @@
 # Qr Code Generator
-Qr -[code](https://github.com/argha-sarkar/Python-Projects/tree/main/Qr-Code-Generator) is easy use tool which is a type of matrix bar code.
+Qr [code](https://github.com/argha-sarkar/Python-Projects/tree/main/Qr-Code-Generator) generator is very easy project. Just write this [code](https://github.com/argha-sarkar/Python-Projects/blob/main/Qr-Code-Generator/Qr-code-generator.py) after run this code.
 
 ## Acknowledgements
-Right now I'm uploading Python Basics Cheat sheet, I will upload the numpy,
-pandas, matplotlib, seaborn in the future.
-
  - [Qr Code Generator](https://github.com/argha-sarkar/Python-Projects/tree/main/Qr-Code-Generator)
 
   
